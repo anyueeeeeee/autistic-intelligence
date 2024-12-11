@@ -1,2 +1,3 @@
 node_modules/       # Node.js dependencies
 .env                # Environment variablesnode_modules/
+.DS_store
